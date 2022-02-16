@@ -1,0 +1,3 @@
+/index.html           (Status: 200) [Size: 808]
+/files                (Status: 301) [Size: 314] [--> http://10.10.191.200/files/]
+/server-status        (Status: 403) [Size: 278]
