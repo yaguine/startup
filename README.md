@@ -1,4 +1,4 @@
-# Startup WriteUp
+# Startup WriteUp (Tryhackme) by [yag1n3](https://github.com/yaguine)
 
 ### flags
 1. What is the secret spicy soup recipe?
